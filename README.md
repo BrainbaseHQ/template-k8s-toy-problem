@@ -37,7 +37,7 @@ minikube start
 
 ## Project Structure
 
-Your project should have the following structure:
+Your project should roughly have the following structure:
 
 ```
 template-k8s-toy-problem/
