@@ -23,8 +23,8 @@ Ensure you have the following tools installed on your machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/BrainbaseHQ/brainbase-k8s-template
-cd brainbase-k8s-template
+git clone https://github.com/BrainbaseHQ/template-k8s-toy-problem
+cd template-k8s-toy-problem
 ```
 
 ### Setting Up Kubernetes Cluster
@@ -40,7 +40,7 @@ minikube start
 Your project should have the following structure:
 
 ```
-brainbase-k8s-template/
+template-k8s-toy-problem/
 │
 ├── api-server/
 │   ├── Dockerfile
