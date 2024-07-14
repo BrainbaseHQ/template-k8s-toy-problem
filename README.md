@@ -2,6 +2,8 @@
 
 This assignment requires you to create a Kubernetes-based task management system using a simplified architecture and a Next.js client application.
 
+<img width="1328" alt="Untitled (3)" src="https://github.com/user-attachments/assets/6942b0a2-f03e-438c-9bcb-9df8da8d9110">
+
 ## Introduction
 
 The goal of this project is to develop a Kubernetes-based system that handles tasks using a microservices architecture. You will build a system where tasks are managed by an API server, processed by a task engine, communicated via RabbitMQ, and stored in a MongoDB database. Additionally, you will create a Next.js client application to interact with the system.
